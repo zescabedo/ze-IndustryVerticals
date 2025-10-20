@@ -75,7 +75,7 @@ export const GlobalFooterDefault: React.FC<GlobalFooterProps> = (props) => {
         <div className="-z-1 pointer-events-none absolute inset-0 opacity-90" aria-hidden="true">
           <div className="flex h-full w-full items-end justify-center leading-none">
             <div className="bg-primary-gradient text-fill-transparent text-50-clamp -mb-14 bg-clip-text font-bold leading-none text-transparent">
-              Alaris
+              Forge
             </div>
           </div>
         </div>
